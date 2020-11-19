@@ -1,7 +1,7 @@
 ---
 title: 'The Bullish Case For Gas In Europe'
 date: 2018-08-28 17:00:00
-description: Article published by OilPrice.com, republished by Markets Insider and Yahoo Finance.
+description: Article published by [OilPrice.com][article2], republished by Markets Insider and Yahoo Finance.
 featured_image: '/images/demo/bullishgas.jpg'
 ---
 
@@ -39,7 +39,7 @@ As Figure 2 shows, there is a substantial range in price harmonisation within th
 
 Fundamentally, the extreme weather experienced across Europe throughout the year has driven natural gas prices, and the tightness of the market, to multi-year highs. According to traders and analysts, the bullish price sentiment shall continue into the coming heating season, increasing competition within the European market, ultimately driving the market toward the EU objective of ‘one market’ for natural gas within Europe.
 
-By David Woroniuk for Oilprice.com
+By David Woroniuk for [Oilprice.com][article2]
 
 
 
@@ -47,3 +47,4 @@ By David Woroniuk for Oilprice.com
 
 
 [article1]: <https://www.bloomberg.com/news/articles/2018-08-23/europe-s-unprecedented-natural-gas-rally-drives-up-power-prices>
+[article2]: <https://oilprice.com/>
