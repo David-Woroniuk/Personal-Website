@@ -1,7 +1,7 @@
 ---
 title: 'The Bullish Case For Gas In Europe'
 date: 2018-08-28 17:00:00
-description: Article published by [OilPrice.com][article2], republished by Markets Insider and Yahoo Finance.
+description: Article published by OilPrice.com, republished by Markets Insider and Yahoo Finance.
 featured_image: '/images/demo/bullishgas.jpg'
 ---
 
