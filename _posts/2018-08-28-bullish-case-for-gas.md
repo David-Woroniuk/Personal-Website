@@ -24,15 +24,23 @@ Therefore, as Asia has presented a lucrative arbitrage opportunity over the prev
 
 In order to dynamically assess the tightness of the European natural gas market, this article observes the harmonisation of price returns within the European natural gas market. This is made possible through generation of a connection density term based on price returns of 12 European Day Ahead hubs. From this, a rolling window estimator is applied, assessing the degree of price harmonisation, and therefore the tightness of the European market, at each point in time.
 
-![](/images/demo/bullishgas2.jpg)
+```html
+<div class="gallery" data-columns="1">
+    <img src="/images/demo/bullishgas2.jpg">
+</div>
+```
 Figure 1: A Connection Density time series of European daily day ahead prices.
 
 As shown in Figure 1, the connection density term increases substantially throughout the heatwave, driven by a perfect demand storm within Europe. A number of concomitant factors such as Asian LNG demand, uncharacteristically warm temperatures, and pressure on power generators to reduce coal usage, have firmed day ahead gas prices, increasing competition, harmonising prices, and ultimately tightening the European gas market.
 
 The increasing tightness within the European market has the secondary effect of dampening price volatility, as displayed by the 30-day average volatility metric (Figure 1), which visually holds a negative correlation with the connection density term. This negative relationship can be expected to hold within the tight market conditions anticipated into the European heating season.
 
-![](/images/demo/bullishgas3.jpg)
-![](/images/demo/bullishgas4.jpg)
+```html
+<div class="gallery" data-columns="2">
+    <img src="/images/demo/bullishgas3.jpg">
+    <img src="/images/demo/bullishgas4.jpg">
+</div>
+```
 Figure 2: Causality amongst European gas prices at the highest (upper image) connection density (20/07/2018) and lowest (lower image) connection density (03/07/2018).
 
 As Figure 2 shows, there is a substantial range in price harmonisation within the European natural gas market across the sample, with higher marginal prices often leading to increased competition in the pan-European day ahead market.
