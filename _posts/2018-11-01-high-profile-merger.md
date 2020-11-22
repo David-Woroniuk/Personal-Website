@@ -25,7 +25,7 @@ As such, the anticipated merger, combined with expected completion of the Val de
 
 Whilst the merger will undoubtedly impact the domestic French natural gas market, the broader implications for European gas market pricing, integration and security are pertinent. As the French market reaches a new equilibrium price, with an anticipated reduction of pricing within Southern France, cross border arbitrage opportunities between Southern France and PVB (Spain) become more attractive (Figure 2). Given the historically low capacity utilization rates at VIP Pirineos, despite the mean cross border premium of €1.25/MWh over the last year, there is substantial potential for cross-border arbitrage. However, [Oxford Institute for Energy Studies (OIES)][article4] proffer that transmission capacity between France and Spain is not easily available for players who are not active shippers in those markets and only those who own long term capacity on this route may be able to easily perform arbitrage trading.
 
-![](/images/demo/mergerimpact3.jpg)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/372.embed"></iframe>
 Figure 2: The price spread between PVB (Spain) and PEG-TRS (France) in €/MWh and net pipeline flows from PEG-TRS to PVB in MCM/d.
 
 Based on the premise of reduced wholesale pricing in Southern France and increasing competitiveness of cross border arbitrage into Spain, a key constituent of the Spanish supply portfolio comes into question. Given the Iberian peninsula’s [substantial portion][article5] of Europe’s LNG regasification capacity, a reduction in pricing in Southern France, and by extension Spain, could impact the price competitiveness of LNG imports into Southern Europe.
