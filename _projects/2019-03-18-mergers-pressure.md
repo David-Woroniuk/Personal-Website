@@ -13,7 +13,7 @@ On [November 1st 2018][link2], the two virtual trading points (VTPs), PEG-Nord a
 
 As we can see from Figure 1, the PVB-PEG premium still exists post-merger, however a palpable change in market dynamics can be observed. This can be further observed in Table 1, which shows that the Coefficient of Variation of the PVB-PEG spread, the standard deviation normalised for magnitude, has substantially reduced, indicating that a more stable France to Spain net flow has been established post-merger. This is further supported by the 88% post-merger increase in net flows between France and Spain, indicating that the South-West European wholesale gas markets are becoming more integrated.
 
-![](/images/demo/gasmergers2.jpg)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/372.embed"></iframe>
 Figure 1:  Right: PVB-PEG Spread in €/MWh. This has remained consistent following the merger. Left: PEG to PVB Net Flows in MCM/d. Following the merger, the cross-border gas flows have increased considerably, indicating an increasingly competitive wholesale gas market in Southern France and Spain.
 
 |     Variable           | Value |
