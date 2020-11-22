@@ -17,7 +17,7 @@ Whilst Gyetvay attributed the increase in European LNG imports to ‘the warmer 
 
 Most of the Yamal LNG cargoes have been shipped to Northwest Europe this winter, becoming the main source of European LNG imports, providing both supply flexibility and, by extension, a cap on natural gas prices observed throughout Europe. This is mainly due to the dynamics observed within the Asian gas markets, typically the largest consumer of LNG. Following the tight spot LNG market last winter, Asian buyers secured sufficient supplies ahead of the winter, which has been unseasonably warm.
 
-![](/images/demo/russianlng2.jpg)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/366.embed"></iframe>
 Figure 1: The origins and number of LNG cargoes landed in Northwest Europe in February 2019. This excludes any reloaded cargoes.
 
 That said, Asia remains the largest, and most critical, consumer of LNG. As Asian LNG import demand is set to be the largest driver of growth within the global trade, many analysts pay disproportionate attention to macro-economic and demand within Asia, often overlooking the relatively paltry European LNG market.
