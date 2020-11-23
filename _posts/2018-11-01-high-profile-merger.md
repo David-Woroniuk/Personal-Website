@@ -18,7 +18,7 @@ As a consequence, the systematic price difference (Figure 1) between PEG-Nord an
 
 PEG-Nord is currently well supplied through direct pipeline linkages to Zeebrugge and NetConnect Germany (NCG) and LNG regasification capacity at Dunkerque and Montoir de Bretagne. However, PEG-TRS has limited pipeline access to other gas sources, with [LNG capacity][article3] at the Fos terminals supplying a substantial proportion of demand in the South. These stylised facts, combined with capacity constraints of the Liaison Nord-Sud pipeline, which can only carry roughly [40MCM/d][article3], have driven a systematic premium at PEG-TRS in recent years (Figure 1).
 
-![](/images/demo/mergerimpact2.jpg)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/460.embed"></iframe>
 Figure 1: The PEG-TRS-PEG Nord price spread in €/MWh and net pipeline flows from PEG-Nord to PEG-TRS in MCM/d.
 
 As such, the anticipated merger, combined with expected completion of the Val de Saone and Gascogne-Midi pipeline projects, should alleviate capacity restrictions on the Liaison Nord-Sud pipeline and effectively eliminate the premium paid within the day ahead market in Southern France.
