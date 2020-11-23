@@ -20,8 +20,9 @@ Conservative projections for the long-term viability of crude, Qatar’s margina
 
 In order to understand how the world's major economies will respond to the growing roll of natural gas as a primary energy source, it is important to first analyse the availability and location of the world's gas reserves. Figure 2 displays OPEC members, GECF members and GECF observers, whilst Table 1 displays production share, reserve share and R/P ratio of crude oil and gas across different regions.
 
-![](/images/demo/cartelforming3.jpg)
-Figure 2:  Left: OPEC members are highlighted in red. Right: A visualisation of GECF members and observers, with members highlighted in red, and observers in orange.
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/462.embed"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~DavidWoroniuk/464.embed"></iframe>
+Figure 2:  Top: OPEC members and Observers. Bottom: A visualisation of GECF members and observers.
 
 
 |                | Oil Production | Gas Production | Oil Reserves | Gas Reserves | R/P Oil | R/P Gas |
